@@ -1,0 +1,23 @@
+[
+    {
+        "description": "новая задача",
+        "deadline": "2021-08-01T00:00:00",
+        "priority": "normal",
+        "status": "new",
+        "id": 0
+    },
+    {
+        "description": "проверка повторной записи",
+        "deadline": "2021-08-15T00:00:00",
+        "priority": "normal",
+        "status": "done",
+        "id": 1
+    },
+    {
+        "description": "проверка изменений",
+        "deadline": "2021-09-30T00:00:00",
+        "priority": "low",
+        "status": "in progress",
+        "id": 2
+    }
+]
